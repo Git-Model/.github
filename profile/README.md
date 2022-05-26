@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://space.bilibili.com/1051016998"> 
-        <img src="./figures/LOGO.png" width="80%" height = "80%"> 
+        <img src="./figures/LOGO.png" width="60%"> 
     </a>
 </p>
 
