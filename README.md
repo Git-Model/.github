@@ -20,8 +20,8 @@
 </p>
 
 
-We are a group of mathematical modeling enthusiasts,\
-We used to come all the way from cinnamoroll,\
+We are a group of mathematical modeling enthusiasts,\s
+We used to come all the way from beginner,\
 We had a lot of trouble along the way,\
 We have always hoped that there will be a place where these materials and experiences can be gathered.\
 **Continue to serve all competitors in an open-source way**\
