@@ -73,4 +73,4 @@ Grow with learners and competitors！
     </a>
 </p>
 
-**We are looking forward to your joining us. We will jointly maintain the first open source community of mathematical modeling in China!**
+**We are looking forward to you to join us. We will jointly maintain the first open source community of mathematical modeling in China!**
