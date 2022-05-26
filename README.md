@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, 欢迎光临 GitModel </h1>
+<h1 align="center">👋 Hi, Welcome to GitModel </h1>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1051016998&labelColor=FE7398&logo=bilibili&label=bilibili%20fans&query=%24.data.totalSubs&color=9cf">
@@ -11,7 +11,7 @@
     </a>
 </p>
 
-> 🚀 一个数学建模工具库，这里有你学习数学建模竞赛的所有。
+> 🚀 A mathematical modeling tool library, where you can learn all about mathematical modeling competition.
 
 <p align="center">
     <a href="https://space.bilibili.com/1051016998"> 
@@ -20,26 +20,26 @@
 </p>
 
 
-我们是一群数学建模爱好者\
-我们曾经也从小白一路走来\
-这一路上我们踩了不少坑\
-我们一直希望有一个地方，可以汇集这些资料、经验\
-**持续开源的服务各位竞赛者**\
-与学习者、竞赛者们一同成长！
+We are a group of mathematical modeling enthusiasts,\
+We used to come all the way from cinnamoroll,\
+We had a lot of trouble along the way,\
+We have always hoped that there will be a place where these materials and experiences can be gathered.\
+**Continue to serve all competitors in an open-source way**\
+Grow with learners and competitors！
 
-<h2 align='left'><b>🌱 最近正在更新...</b></h2>
+<h2 align='left'><b>🌱 Updating recently...</b></h2>
 
-- 🧱 数学建模竞赛的数学基础
+- 🧱 Mathematical foundation of mathematical modeling competition
 
-<h2 align='left'><b>🧩 未来将会更新</b></h2>
+<h2 align='left'><b>🧩 Update in the future</b></h2>
 
-- 有关数学建模的基本知识、算法、以及实战案例
-- 各类数学建模竞赛的Baseline
-- 有关数学建模的竞赛分享与复盘
-- 各类有趣的数学建模案例
-- 还有你想了解or感兴趣的，欢迎跟我们[联系](gitmodel@163.com)或[投稿](https://space.bilibili.com/1051016998)
+- Basic knowledge, algorithms and practical cases of mathematical modeling.
+- Baseline of various mathematical modeling competitions.
+- Competition sharing and replay of mathematical modeling.
+- Various interesting mathematical modeling cases.
+- If you want to know more, please [contact](gitmodel@163.com) us or [contribution](https://space.bilibili.com/1051016998).
 
-<h2 align='left'><b>🛠️ 参考工具</b></h2>
+<h2 align='left'><b>🛠️ Reference Tools</b></h2>
 <p align='center'>
     <a href='https://www.python.org/'>
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
@@ -61,16 +61,16 @@
     </a>
 </p>
 
-<h2 align='left'><b>📫 欢迎沟通鸭！</b></h2>
+<h2 align='left'><b>📫 Welcome to Communicate with Us</b></h2>
 
-- 📧 **邮箱**：gitmodel@163.com
-- 📺 **bilibili**：[GitModel](https://space.bilibili.com/1051016998)
+- 📧 **Mailbox**：gitmodel@163.com
+- 📺 **Bilibili**：[GitModel](https://space.bilibili.com/1051016998)
 
-<h2 align='left'><b>🆕 关注公众号</b></h2>
+<h2 align='left'><b>🆕 Follow Wechat Account</b></h2>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
         <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.jpg" width = "180" height = "180">
     </a>
 </p>
 
-**我们非常期待有兴趣的你一同加入，我们共同维护国内第一个数学建模开源社区！**
+**We are looking forward to your joining us. We will jointly maintain the first open source community of mathematical modeling in China!**
