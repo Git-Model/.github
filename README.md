@@ -66,7 +66,7 @@ Grow with learners and competitors！
 - 📧 **Mailbox**：gitmodel@163.com
 - 📺 **Bilibili**：[GitModel](https://space.bilibili.com/1051016998)
 
-<h2 align='left'><b>🆕 Follow Wechat Account</b></h2>
+<h2 align='left'><b>🆕 Follow WeChat Account</b></h2>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
         <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.jpg" width = "180" height = "180">
