@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://space.bilibili.com/1051016998"> 
-        <img src="https://github.com/Git-Model/.github/blob/main/figures/LOGO.png)" width="60%"> 
+        <img src="https://github.com/Git-Model/.github/blob/main/figures/LOGO.png" width="60%"> 
     </a>
 </p>
 
