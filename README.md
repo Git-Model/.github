@@ -39,7 +39,7 @@ Grow with learners and competitors！
 - Various interesting mathematical modeling cases.
 - If you want to know more, please [contact](gitmodel@163.com) us or [contribution](https://space.bilibili.com/1051016998).
 
-<h2 align='left'><b>🛠️ 参考工具</b></h2>
+<h2 align='left'><b>🛠️ Reference Tools</b></h2>
 <p align='center'>
     <a href='https://www.python.org/'>
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
@@ -61,16 +61,16 @@ Grow with learners and competitors！
     </a>
 </p>
 
-<h2 align='left'><b>📫 欢迎沟通鸭！</b></h2>
+<h2 align='left'><b>📫 Welcome to Communicate with Us</b></h2>
 
-- 📧 **邮箱**：gitmodel@163.com
-- 📺 **bilibili**：[GitModel](https://space.bilibili.com/1051016998)
+- 📧 **Mailbox**：gitmodel@163.com
+- 📺 **Bilibili**：[GitModel](https://space.bilibili.com/1051016998)
 
-<h2 align='left'><b>🆕 关注公众号</b></h2>
+<h2 align='left'><b>🆕 Follow Wechat Account</b></h2>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
         <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.jpg" width = "180" height = "180">
     </a>
 </p>
 
-**我们非常期待有兴趣的你一同加入，我们共同维护国内第一个数学建模开源社区！**
+**We are looking forward to your joining us. We will jointly maintain the first open source community of mathematical modeling in China!**
