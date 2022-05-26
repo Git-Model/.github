@@ -20,7 +20,7 @@
 </p>
 
 
-We are a group of mathematical modeling enthusiasts,\s
+We are a group of mathematical modeling enthusiasts,\
 We used to come all the way from beginner,\
 We had a lot of trouble along the way,\
 We have always hoped that there will be a place where these materials and experiences can be gathered.\
@@ -73,4 +73,4 @@ Grow with learners and competitors！
     </a>
 </p>
 
-**We are looking forward to you to join us. We will jointly maintain the first open source community of mathematical modeling in China!**
+**We are looking forward you to join us. We will jointly maintain the first open source community of mathematical modeling in China!**
