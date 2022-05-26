@@ -7,9 +7,6 @@
 > 🚀一个数学建模工具库，这里有你学习数学建模竞赛的所有.
 
 
-
-<h3 align="center"> <img src="./figures/FULL LOGO 1.png" width = "75%" align=center /></h3>
-
 我们是一群数学建模爱好者\
 我们曾经也从小白一路走来\
 这一路上我们踩了不少坑\
