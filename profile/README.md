@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://space.bilibili.com/1051016998"> 
-        <img src="https://github.com/Git-Model/.github/blob/main/figures/LOGO.png)" width="60%"> 
+        <img src="https://github.com/Git-Model/.github/blob/main/figures/LOGO.png" width="60%"> 
     </a>
 </p>
 
@@ -69,7 +69,7 @@
 <h2 align='left'><b>🆕 关注公众号</b></h2>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
-        <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.png" width = "180" height = "180">
+        <img src="https://github.com/Git-Model/.github/blob/main/figures/QRCode.jpg" width = "180" height = "180">
     </a>
 </p>
 
