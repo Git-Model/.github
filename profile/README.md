@@ -37,7 +37,7 @@
 - 各类数学建模竞赛的Baseline
 - 有关数学建模的竞赛分享与复盘
 - 各类有趣的数学建模案例
-- 还有你想了解or感兴趣的，欢迎跟我们[联系](gitmodel@163.com)或[投稿](https://space.bilibili.com/1051016998)
+- 还有你想了解or感兴趣的，欢迎跟我们[投稿](https://space.bilibili.com/1051016998)。
 
 <h2 align='left'><b>🛠️ 参考工具</b></h2>
 <p align='center'>

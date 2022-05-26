@@ -37,7 +37,7 @@ Grow with learners and competitors！
 - Baseline of various mathematical modeling competitions.
 - Competition sharing and replay of mathematical modeling.
 - Various interesting mathematical modeling cases.
-- If you want to know more, please [contact](gitmodel@163.com) us or [contribution](https://space.bilibili.com/1051016998).
+- If you want to know more, please [contribute](https://space.bilibili.com/1051016998) to us.
 
 <h2 align='left'><b>🛠️ Reference Tools</b></h2>
 <p align='center'>
