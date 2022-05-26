@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href="https://space.bilibili.com/1051016998"> 
-        <img src="./figures/LOGO.png"> 
+        <img src="./figures/LOGO.png" width="80%" height = "80%"> 
     </a>
 </p>
 
@@ -66,7 +66,7 @@
 - 📧 **邮箱**：gitmodel@163.com
 - 📺 **bilibili**：[GitModel](https://space.bilibili.com/1051016998)
 
-<h2 align='left'><b>🆕 关注我们</b></h2>
+<h2 align='left'><b>🆕 关注公众号</b></h2>
 <p align='center'>
     <a href='https://space.bilibili.com/1051016998'>
         <img src="./figures/QRCode.jpg" width = "180" height = "180">
