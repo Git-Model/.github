@@ -29,7 +29,7 @@
 
 <h2 align='left'><b>🌱 最近正在更新...</b></h2>
 
-- 🧱 数学建模竞赛的数学基础
+- 🧱 [GM101-数学建模的基石](https://github.com/Git-Model/__init_Modeling__)
 
 <h2 align='left'><b>🧩 未来将会更新</b></h2>
 
