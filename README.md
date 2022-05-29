@@ -29,7 +29,7 @@ Grow with learners and competitors！
 
 <h2 align='left'><b>🌱 Updating recently...</b></h2>
 
-- 🧱 Mathematical foundation of mathematical modeling competition
+- 🧱 [Mathematical foundation of mathematical modeling competition](https://github.com/Git-Model/__init_Modeling__)
 
 <h2 align='left'><b>🧩 Update in the future</b></h2>
 
