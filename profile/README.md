@@ -27,17 +27,27 @@
 **持续开源的服务各位竞赛者**\
 与学习者、竞赛者们一同成长！
 
-<h2 align='left'><b>🌱 最近正在更新...</b></h2>
 
+## 🎯 更新规划
+### ✅ 已完结
 - 🧱 [GM101-数学建模的基石](https://github.com/Git-Model/__init_Modeling__)
 
-<h2 align='left'><b>🧩 未来将会更新</b></h2>
+### 🌱 最近正在更新...
+- 🌌 **GitModel模型宇宙**
+    - 📊[GM100-数据总动员](https://github.com/Git-Model/Modeling-Universe/tree/main/Data-Story)
 
+### 🧩 未来将会更新
 - 有关数学建模的基本知识、算法、以及实战案例
 - 各类数学建模竞赛的Baseline
 - 有关数学建模的竞赛分享与复盘
 - 各类有趣的数学建模案例
 - 还有你想了解or感兴趣的，欢迎跟我们[投稿](https://space.bilibili.com/1051016998)。
+
+
+<div class="progress">
+  <div class="progress-bar progress-bar-striped" style="width:40%"></div>
+</div>
+
 
 <h2 align='left'><b>🛠️ 参考工具</b></h2>
 <p align='center'>
